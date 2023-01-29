@@ -2,7 +2,7 @@
 
 This project aims to create an artifial intelligence in C for a two-year project. The theme of the project is "Sports and Games" which will certainly lead this AI to be used in the E-Sport field, with APIS such as the Riot one.
 
-Everything will be build in C.
+Everything will be built in C.
 
 ## <u>Main steps</u>
 
